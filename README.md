@@ -87,3 +87,12 @@ goal: Building creative and useful projects
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BA55D3,100:4169E1&height=100&section=footer" width="100%" />
 
 </div>
+
+---
+
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fatmanursari26/fatmanursari26/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
