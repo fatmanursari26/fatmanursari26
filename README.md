@@ -69,18 +69,20 @@ goal: Building creative and useful projects
 
 ### 📊 GitHub Statistics
 
+
+<h2 align="center">⚡ GitHub Analytics</h2>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fatmanursari26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanursari26&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=fatmanursari26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanursari26&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fatmanursari26&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<div align="center">
 
 ### ✨ Thanks for visiting my profile!
 
