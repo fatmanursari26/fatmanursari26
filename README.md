@@ -1,63 +1,17 @@
-# Hi there, I'm Fatmanur 👋
+<h1 align="center">Hi 👋, I'm Fatmanur</h1>
+<h3 align="center">Computer Engineer | Aspiring Full Stack Developer</h3>
 
-### Computer Engineer | Aspiring Full Stack Developer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fatmanursari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatmanursari" height="30" width="40" /></a>
+<a href="https://kaggle.com/fatmanur12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatmanur12" height="30" width="40" /></a>
+</p>
 
-I'm a Computer Engineering graduate passionate about building modern web applications and exploring new technologies.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- 🌱 Currently improving my **Full Stack Web Development** skills.
-- 💻 Interested in **Web Development, Artificial Intelligence and Machine Learning**.
-- 📊 Exploring **Data Science and Data Visualization**.
-- 🚀 Always learning, building and improving.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanursari26&show_icons=true&locale=en&layout=compact" alt="fatmanursari26" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatmanursari26&show_icons=true&locale=en" alt="fatmanursari26" /></p>
 
-### Connect with me
-
-\<p align="left">
-&#x20; \<a href="[https://linkedin.com/in/fatmanursari](https://linkedin.com/in/fatmanursari)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="40" />
-&#x20; \</a>
-&#x20; \<a href="[https://kaggle.com/fatmanur12](https://kaggle.com/fatmanur12)">
-&#x20;   \<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)" width="40" height="40" />
-&#x20; \</a>
-\</p>
-
----
-
-### Technologies & Tools
-
-\<p align="left">
-&#x20; \<a href="[https://www.w3schools.com/cpp/](https://www.w3schools.com/cpp/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" width="40" height="40" alt="C++"/>\</a>
-&#x20; \<a href="[https://www.w3schools.com/css/](https://www.w3schools.com/css/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" width="40" height="40" alt="CSS3"/>\</a>
-&#x20; \<a href="[https://www.docker.com/](https://www.docker.com/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)" width="40" height="40" alt="Docker"/>\</a>
-&#x20; \<a href="[https://git-scm.com/](https://git-scm.com/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg)" width="40" height="40" alt="Git"/>\</a>
-&#x20; \<a href="[https://www.w3.org/html/](https://www.w3.org/html/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" width="40" height="40" alt="HTML5"/>\</a>
-&#x20; \<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" width="40" height="40" alt="JavaScript"/>\</a>
-&#x20; \<a href="[https://www.linux.org/](https://www.linux.org/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" width="40" height="40" alt="Linux"/>\</a>
-&#x20; \<a href="[https://www.mysql.com/](https://www.mysql.com/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" width="40" height="40" alt="MySQL"/>\</a>
-&#x20; \<a href="[https://nodejs.org](https://nodejs.org)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)" width="40" height="40" alt="Node.js"/>\</a>
-&#x20; \<a href="[https://www.postgresql.org](https://www.postgresql.org)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)" width="40" height="40" alt="PostgreSQL"/>\</a>
-&#x20; \<a href="[https://www.python.org](https://www.python.org)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" width="40" height="40" alt="Python"/>\</a>
-&#x20; \<a href="[https://react.dev/](https://react.dev/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" width="40" height="40" alt="React"/>\</a>
-&#x20; \<a href="[https://pandas.pydata.org/](https://pandas.pydata.org/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)" width="40" height="40" alt="Pandas"/>\</a>
-&#x20; \<a href="[https://numpy.org/](https://numpy.org/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)" width="40" height="40" alt="NumPy"/>\</a>
-&#x20; \<a href="[https://scikit-learn.org/](https://scikit-learn.org/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg)" width="40" height="40" alt="Scikit-learn"/>\</a>
-&#x20; \<a href="[https://plotly.com/](https://plotly.com/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg)" width="40" height="40" alt="Plotly"/>\</a>
-\</p>
-
----
-
-### GitHub Statistics
-
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=fatmanursari26&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=fatmanursari26\&show_icons=true\&theme=github_dark\&hide_border=true)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanursari26&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanursari26\&layout=compact\&theme=github_dark\&hide_border=true)" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=fatmanursari26&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=fatmanursari26\&theme=github-dark-blue\&hide_border=true)" />
-\</p>
-
----
-
-\<p align="center">   \<i>Learning something new every day.\</i> \</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanursari26&" alt="fatmanursari26" /></p>
